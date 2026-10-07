@@ -37,11 +37,11 @@ const App: React.FC = () => {
 
           <div className="z-10 flex flex-col items-center">
             <h1 className="text-4xl font-extrabold tracking-tighter text-transparent uppercase sm:text-6xl md:text-7xl lg:text-8xl bg-clip-text bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400">
-              10 MIL CURSOS.<br />
-              <span className="text-white">1 SÓ INVESTIMENTO.</span>
+              EXPLORE. APRENDA.<br />
+              <span className="text-white">ACERVO NEWGEN.</span>
             </h1>
             <p className="max-w-2xl mx-auto mt-6 text-lg text-gray-300 md:text-xl">
-              Aprenda qualquer coisa, quando quiser. Acesso vitalício por apenas <span className="font-bold text-white">R$29,90</span>.
+              Cursos e materiais de aprendizagem para explorar diferentes assuntos. Acesse o Acervo NewGen por apenas <span className="font-bold text-white">R$10,00</span>.
             </p>
             <div className="mt-10">
               <a
